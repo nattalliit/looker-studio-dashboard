@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ssl.gstatic.com/datastudio/latest/static_images/pngs/favicon_looker_studio.png" alt="Looker Studio Dashboard Logo" width="825">
+  <img src="https://ssl.gstatic.com/datastudio/latest/static_images/pngs/favicon_looker_studio.png" alt="Looker Studio Dashboard Logo" width="225">
 </p>
 
 <h1 align="center">Looker Studio Dashboar </h>
